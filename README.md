@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1pZCgQ-DH1xUD5fUTGtdIJFMfzrRQLFMf/view?usp=sharing
+https://drive.google.com/file/d/14vmBEmKJ9OhafsRCXqJx3eyKano2l0GL/view?usp=sharing
 게임 파일 구글드라이브입니다.
 이동 wasd, 상호작용 E, 3스테이지 손전등 F, 앉기C
 조장 황인수
