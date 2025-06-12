@@ -18,4 +18,4 @@ https://drive.google.com/file/d/1eX7oMTm7YZjAQi0a8XUvDKPFUDLDDGdM/view?usp=shari
 
 C++ 파일들은 2스테이지에만 해당합니다.
 
-2스테이지 3번째 방에서 밟으면 투명발판이 나오는 트리거발판이 다른 컴퓨터에서 켜면 사라지는 버그가 있는데 고치지 못했습니다.
+2스테이지(FirstPersonMap) 3번째 방에서 밟으면 투명발판이 보이게 하는 트리거발판이 다른 컴퓨터에서 켜면 사라지는 버그가 있는데 고치지 못했습니다.
